@@ -1,11 +1,1 @@
-.idea/
-out/
-*.iml
-__pycache__/
-*.py[cod]
-*$py.class
-build/
-dist/
-venv/
-*.manifest
-*.spec
+config.json
